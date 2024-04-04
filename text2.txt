@@ -1,8 +1,13 @@
 nbjnbjbnbvc
 hjkfdh
 njfd
+<<<<<<< HEAD
 hdfsbvhdsfdgjifj
 jfkdgjbfdb
 hjdhga mbv bkfldbjfklhbjfdsbhfbhf
 
 bjfd
+=======
+njgfhjfh
+njfn
+>>>>>>> ff10cbb483cd08f4c7161f53dc0fed853cb15abd
